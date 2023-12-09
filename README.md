@@ -4,8 +4,7 @@ This repository contains the results of the paper [Word Embeddings Quantify 100 
 Stereotypes](https://www.pnas.org/doi/full/10.1073/pnas.1720347115) reproduced using STILE. 
 
 
-The PDF contains the screenshots of biases identified using STILE, also identified by the Relative Norm Difference bias metric[1] from Google News Embedding. 
-
+The PDF contains the screenshots of biases identified from Google News Embedding using STILE. The screenshots show that similar biases were also identified by the Relative Norm Difference bias metric[1] from Google News Embedding. 
 
 
 
